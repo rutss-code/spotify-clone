@@ -22,14 +22,6 @@ _Spotify Clone Desktop View: This is the main desktop view of the Spotify clone.
 
 ---
 
-## ▶️ Demo
-
-You can see this project live in your browser here:
-
-[**View Live Demo**](https://rutss-code.github.io/spotify-clone/)
-
----
-
 ## 🚀 How to Run It Yourself
 
 It's super easy to get this project up and running on your local machine!
