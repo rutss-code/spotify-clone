@@ -36,9 +36,11 @@ It's super easy to get this project up and running on your local machine!
 
 1.  **Get the code:**
 
-    ```bash
-    git clone (https://github.com/rutss-code/spotify-clone.git)
-    ```
+```bash
+git clone [https://github.com/rutss-code/spotify-clone.git](https://github.com/rutss-code/spotify-clone.git)
+```
+
+Alternatively, you can browse the repository directly [here](https://github.com/rutss-code/spotify-clone).
 
 2.  **Go into the project folder:**
 
