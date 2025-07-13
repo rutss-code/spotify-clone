@@ -34,7 +34,7 @@ It's super easy!
     ```
 2.  **Go into the folder:**
     ```bash
-    cd YOUR_REPO_NAME
+    cd spotify-clone
     ```
 3.  **Open in your browser:** Just double-click the `index.html` file in the project folder!
 
