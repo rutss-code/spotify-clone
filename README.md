@@ -6,7 +6,7 @@ This is a simple front-end clone of Spotify, built just with HTML and CSS. I mad
 
 Here's how my Spotify clone looks:
 
-![Spotify Clone Desktop View](sreenshot.png)
+![Spotify Clone Desktop View](screenshot.png)
 *This is the main desktop view of the Spotify clone.*
 
 ## ✨ Features
